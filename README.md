@@ -1,6 +1,6 @@
 # Terraform AWS Get Started
 
-This repository contains the code created while following the [Get Started - AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-hcp-terraform) tutorial on HashiCorp Developer.
+This repository contains the code created while following the [Get Started - AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code) tutorial on HashiCorp Developer.
 
 ## Overview
 
